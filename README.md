@@ -1,0 +1,1 @@
+# Rota-Inteligente-C-lculo-de-Dist-ncias-Consumo-de-Combust-vel-e-Custo-
