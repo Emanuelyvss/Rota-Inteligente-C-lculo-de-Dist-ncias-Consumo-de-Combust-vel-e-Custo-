@@ -2,9 +2,9 @@
 
 Descrição do Projeto:
 
-O aplicativo "Rota Inteligente:
+O aplicativo "Rota Inteligente: Cálculo de Distâncias, Consumo de Combustível e Custo"
 
-Cálculo de Distâncias, Consumo de Combustível e Custo" foi desenvolvido para ajudar os usuários a calcular de forma rápida e precisa a distância entre diversas cidades do Brasil, além de estimar o consumo de combustível e o custo total da viagem com base em um preço de gasolina predefinido.
+foi desenvolvido para ajudar os usuários a calcular de forma rápida e precisa a distância entre diversas cidades do Brasil, além de estimar o consumo de combustível e o custo total da viagem com base em um preço de gasolina predefinido.
 
 Funcionalidades Principais:
 
