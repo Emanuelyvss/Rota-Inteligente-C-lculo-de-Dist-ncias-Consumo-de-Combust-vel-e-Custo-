@@ -25,7 +25,15 @@ SQLite (DAO): Usado para o armazenamento e recuperação das distâncias entre a
 
 Características Técnicas:
 
-Base de Dados Local (DAO): As distâncias entre as cidades são armazenadas e recuperadas usando um Data Access Object (DAO).
-Interface Simples e Intuitiva: A interface do usuário é composta por campos de seleção para a cidade de origem e destino, e exibe os resultados de distância, consumo e custo diretamente na tela.
-Cálculos Precisos: Os cálculos são feitos automaticamente com base nos valores de entrada e nas fórmulas definidas, garantindo praticidade e eficiência.
+Base de Dados Local (DAO): 
+
+As distâncias entre as cidades são armazenadas e recuperadas usando um Data Access Object (DAO).
+
+Interface Simples e Intuitiva:
+
+A interface do usuário é composta por campos de seleção para a cidade de origem e destino, e exibe os resultados de distância, consumo e custo diretamente na tela.
+
+Cálculos Precisos:
+
+Os cálculos são feitos automaticamente com base nos valores de entrada e nas fórmulas definidas, garantindo praticidade e eficiência.
 Este projeto é ideal para quem deseja planejar viagens de carro e ter uma estimativa realista dos custos de combustível antes de pegar a estrada.
