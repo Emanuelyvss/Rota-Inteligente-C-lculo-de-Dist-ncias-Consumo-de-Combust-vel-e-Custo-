@@ -12,8 +12,11 @@ Estimativa de Custo de Combustível: Utilizando o preço por litro de combustív
 
 Tecnologias e Linguagens Utilizadas:
 Java: Linguagem principal para o desenvolvimento da lógica do aplicativo.
+
 Android SDK: Ferramentas e bibliotecas utilizadas para o desenvolvimento do aplicativo Android.
+
 XML: Usado para a definição da interface gráfica (layout) do aplicativo.
+
 SQLite (DAO): Usado para o armazenamento e recuperação das distâncias entre as cidades.
 
 Características Técnicas:
